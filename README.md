@@ -6,8 +6,7 @@ An analysis of Daikibo manufacturing telemetry data completed as part of the **D
 
 ## 📊 Dashboard
 
-![Daikibo Factory Downtime Dashboard](./dashboard/daikibo-dashboard.png)
-
+![Daikibo Factory Downtime Dashboard](daikibo-dashboard.png)
 The dashboard compares potential downtime across factories and allows users to select a factory to investigate downtime by device type.
 
 ## 🔎 Key Insights
