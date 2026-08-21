@@ -7,6 +7,7 @@ An analysis of Daikibo manufacturing telemetry data completed as part of the **D
 ## 📊 Dashboard
 
 ![Daikibo Factory Downtime Dashboard](daikibo-dashboard.png)
+
 The dashboard compares potential downtime across factories and allows users to select a factory to investigate downtime by device type.
 
 ## 🔎 Key Insights
@@ -36,8 +37,7 @@ An interactive filter connects the two charts, allowing users to select a factor
 
 ## 📁 Files
 
-* `dashboard/` — Dashboard screenshot
-* `tableau/` — Tableau workbook
+* `daikibo-dashboard.png` — Dashboard screenshot
 
 ## 📚 Source
 
